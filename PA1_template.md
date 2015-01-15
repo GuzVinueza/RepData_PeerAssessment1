@@ -1,7 +1,7 @@
 ---
 title: "Project 1 ' Use of Markdown"
 author: "Gustavo Vinueza"
-date: "Thursday, October 16, 2014"
+date: "January 14, 2015"
 output: html_document
 ---
 
